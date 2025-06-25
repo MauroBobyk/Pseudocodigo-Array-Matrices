@@ -5,7 +5,8 @@ max<- -9999;
 contador <- 0;
 total <- 0;
 aux <- 1;
-dimension vuelta[10];//dimensionamos de mas por las dudas :)
+dimension vuelta[10];
+//dimensionamos de mas por las dudas :)//
 escribir "Quiere comenzar? S/N";
 leer rta;
  
